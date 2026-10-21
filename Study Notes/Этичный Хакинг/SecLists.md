@@ -1,0 +1,1 @@
+Это огромная коллекция wordlists для penetration testing: пароли, usernames, пути директорий, payloads для fuzzing, LFI, XSS и многое другое. Размер ~1.8-2 GB.
